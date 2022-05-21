@@ -8,8 +8,8 @@ from email.mime.text import MIMEText
 
 host = 'smtp.gmail.com'
 port = 587
-user = 'lucas.mmflorentino@gmail.com'
-password = 'LuC@S_1998'
+user = ''
+password = ''
 server = smtplib.SMTP(host, port)
 
 #TEMPO = 10800
